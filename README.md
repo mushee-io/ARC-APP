@@ -1,4 +1,4 @@
-# MusheeBridge — Vercel-Ready Mobile Wallet Build
+# MusheeBridge: Mobile ARC
 
 This is the Vercel-ready version of the MusheeBridge mobile app built from the Replit project.
 
